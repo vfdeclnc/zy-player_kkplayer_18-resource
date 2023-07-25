@@ -1,0 +1,459 @@
+[
+	{
+		"name": "色屌丝",
+		"api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml",
+		"group": "18禁",
+		"notEdit": true
+	},
+  	{
+		"name": "影库",
+		"api": "https://api.ykapi.net/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+  	{
+		"name": "裤兜",
+		"api": "https://kudouzy.com/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+  	{
+		"name": "91麻豆",
+		"api": "https://91md.me/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+  	{
+		"name": "吾爱",
+		"api": "https://52zyapi.com/home/cjapi/asda/mc10/vod/xml",
+		"group": "18禁",
+		"notEdit": true
+	},
+  	{
+		"name": "小姐姐",
+		"api": "https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
+		"group": "18禁",
+		"notEdit": true
+	},
+  	{
+		"name": "葡萄",
+		"api": "https://caiji.putaozy.net/inc/api.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+  	{
+		"name": "三级",
+		"api": "https://caiji.jjjzy.cc/inc/api.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+  	{
+		"name": "丝袜",
+		"api": "https://siwazyw.cc/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "银窝",
+		"api": "http://api.yinwoapi.com/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "集中营",
+		"api": "http://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "花魁",
+		"api": "https://caiji.huakuiapi.com/inc/api.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "探探",
+		"api": "https://apittzy.com/api.php/provide/vod/at/xml",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "白嫖",
+		"api": "https://www.kxgav.com/api/xml.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "老鸭",
+		"api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true,
+		"jiexiUrl": "https://player.77lehuo.com/aliplayer/?url="
+	},
+	{
+		"name": "涩涩",
+		"api": "http://secj8.com/inc/sapi.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "色猫",
+		"api": "https://api.maozyapi.com/inc/api.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "酷豆",
+		"api": "https://api.kdapi.info/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "爱播",
+		"api": "https://cj.apiabzy.com/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "葡萄",
+		"api": "https://caiji.putaozy.net/inc/api.php",
+		"group": "18禁",
+		"notEdit": true,
+		"jiexiUrl": "https://jiexi.putaozy.net/m3u8/?url="
+	},
+	{
+		"name": "名优",
+		"api": "http://mygzycj.com/sapi.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "久草",
+		"api": "http://jcspcj8.com/sapi",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "CK",
+		"api": "https://ckzy.me/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "利来",
+		"api": "http://llzxcj.com/inc/sck.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "番号",
+		"api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "字幕",
+		"api": "http://zmcj88.com/sapi",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "富二代",
+		"api": "http://f2dcj6.com/sapi",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "色色",
+		"api": "http://secj8.com/inc/api.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "哥哥妹妹",
+		"api": "http://www.ggmmzy.com:9999/inc/xml",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "草莓",
+		"api": "https://caiji.caomeiapi.com/inc/api.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "银龙",
+		"api": "https://yinlong.tv/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "奶茶",
+		"api": "https://caiji.naichaapi.com/inc/api.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "黄黄",
+		"api": "https://www.pgxdy.com/api/xml.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "小湿妹",
+		"api": "https://www.afasu.com/api/xml.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "香奶儿",
+		"api": "https://www.gdlsp.com/api/xml.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "淫水机",
+		"api": "https://www.xrbsp.com/api/xml.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "美少女",
+		"api": "https://www.msnii.com/api/xml.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "久久",
+		"api": "http://99zy.pw/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "AV集中营",
+		"api": "https://www.caiji22.com/home/cjapi/35f4a8d465e6e1edc05f3d8ab658c551/vod/xml",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "痴汉队长",
+		"api": "https://javcaptain.com/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "天噜啦",
+		"api": "http://www.987caiji.com/api/max.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "浪潮",
+		"api": "http://langchaozy6.com/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "四千",
+		"api": "https://www.4000zy.com/inc/api.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "1024",
+		"api": "https://www.1024nf.com/api.php/provide/vod/at/xml",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "水蜜桃",
+		"api": "http://51smt4.xyz/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "小姐姐",
+		"api": "https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "秀色",
+		"api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
+		"group": "18禁",
+		"notEdit": true,
+		"jiexiUrl": "https://api.xiusebf.com/m3u8/?url="
+	},
+	{
+		"name": "秀色2",
+		"api": "https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/",
+		"group": "18禁",
+		"notEdit": true,
+		"jiexiUrl": "https://api.xiusebf.com/m3u8/?url="
+	},
+	{
+		"name": "芒果",
+		"api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "佳丽",
+		"api": "https://jializyzapi.com/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "乐鱼",
+		"api": "https://www.leyuzyapi.com/inc/zyapimac.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "花椒2",
+		"api": "https://apihjzy.com/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "花椒",
+		"api": "https://cj.apihjzy.com/inc/api.php",
+		"group": "18禁",
+		"notEdit": true,
+		"jiexiUrl": "https://m3u8.hjimg7.com/dp/?url="
+	},
+	{
+		"name": "色色",
+		"api": "http://m.7777688.com/inc/api.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "乐播",
+		"api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+		"jiexiUrl": "https://lbjx9.com/?url=",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "鲨鱼",
+		"api": "https://shayuapi.com/api.php/Seacms/vod/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "环亚",
+		"api": "http://wmcj8.com/inc/sapi.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "辣椒",
+		"api": "https://apilj.com/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "辣椒2",
+		"api": "http://api.11bat.com/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "大地",
+		"api": "https://dadiapi.com/api.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "苍天",
+		"api": "http://cj.cangtiancj.com/api.php/Seacms/vod/",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "天堂",
+		"api": "http://bttcj.com/inc/sapi.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "趣播",
+		"api": "https://www.qbzyz.com/api.php/provide/vod/at/xml/",
+		"group": "18禁",
+		"notEdit": true,
+		"jiexiUrl": "https://parse.qbzyz.com/parse?resources="
+	},
+	{
+		"name": "010爱",
+		"api": "http://www.010aizy.com/API/maxs.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "名优馆",
+		"api": "http://mygzycj.com/api.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "利来",
+		"api": "http://llzxcj.com/inc/ck.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "久草",
+		"api": "http://jcspcj8.com/api",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "字幕网",
+		"api": "http://zmcj88.com/api",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "富二代",
+		"api": "http://f2dcj6.com/api",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "狼少年",
+		"api": "http://cjmygzy.com/inc/api.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "玖玖",
+		"api": "http://99zywcj.com/inc/ck.php",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "色窝",
+		"api": "https://sewozyapi.com/api.php/provide/vod/at/xml",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "精工厂",
+		"api": "https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "大MM",
+		"api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml",
+		"group": "18禁",
+		"notEdit": true
+	},
+	{
+		"name": "点点",
+		"api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml",
+		"group": "18禁",
+		"notEdit": true
+	}
+]
