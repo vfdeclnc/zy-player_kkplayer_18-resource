@@ -6,6 +6,6 @@
 
 ---
 
-[加入交流群](https://t.me/+yLgNNwHaupI2YTBl) 新群初建，人还很少，多多分享
+[加入分享群](https://t.me/+yLgNNwHaupI2YTBl) 新群初建，人还很少，多多分享
 目前用的性价比最好的机场 [https://github.com/vfdeclnc/cheap-vpn-recommendation](https://github.com/vfdeclnc/cheap-vpn-recommendation)
 
