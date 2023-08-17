@@ -12,6 +12,3 @@
 ---
 
 [KK Player](https://laonongmin.online) 分享码
-
-* 123456
-* 654321
