@@ -5,8 +5,8 @@
 记得Raw之后再使用
 
 ---
-
-### [KKPlayer分享码：  https://github.com/vfdeclnc/zy-player-18-resource/issues/1](https://github.com/vfdeclnc/zy-player-18-resource/issues/1)
+## KKPlayer分享码
+## [https://github.com/vfdeclnc/zy-player-18-resource/issues/1](https://github.com/vfdeclnc/zy-player-18-resource/issues/1)
 
 ---
  
