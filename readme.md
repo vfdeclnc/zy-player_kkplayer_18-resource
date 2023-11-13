@@ -7,6 +7,7 @@
 ---
 ## KKPlayer分享码
 ## [https://github.com/vfdeclnc/zy-player-18-resource/issues/1](https://github.com/vfdeclnc/zy-player-18-resource/issues/1)
+![KK Player](https://github.com/vfdeclnc/zy-player-18-resource/assets/138665345/9f69f570-4202-4825-9905-564801009b5c)
 
 ---
  
