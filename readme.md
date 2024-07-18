@@ -1,16 +1,17 @@
 # zy-player_kkplayer_18-resource 
 
-记得Raw之后再使用，或者扫码
-![KK Player](https://github.com/vfdeclnc/zy-player-18-resource/assets/138665345/9f69f570-4202-4825-9905-564801009b5c)
+## 18-resource
+
+`https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/src_18_2023-08-22.json`
 
 ---
 ## 
 KKPlayer内置源提取
-![KKPlayer内置源提取](https://github.com/user-attachments/assets/35d00e07-54e4-4442-b3b5-34a29e8467c6)
 
 ---
 ## KKPlayer分享码
-## [https://github.com/vfdeclnc/zy-player-18-resource/issues/1](https://github.com/vfdeclnc/zy-player-18-resource/issues/1)
+
+`https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/src_built_20240718.json`
 
 ---
  
