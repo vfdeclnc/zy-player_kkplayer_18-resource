@@ -5,13 +5,13 @@
 `https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/src_18_2023-08-22.json`
 
 ---
-## 
-KKPlayer内置源提取
+## KKPlayer内置
+
+`https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/src_built_20240718.json`
 
 ---
 ## KKPlayer分享码
-
-`https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/src_built_20240718.json`
+https://github.com/vfdeclnc/zy-player_kkplayer_18-resource/issues/1
 
 ---
  
