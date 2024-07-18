@@ -5,8 +5,7 @@
       "api": "https://api.ffzyapi.com/api.php/provide/vod/",
       "active": true,
       "group": "system",
-      "type": "json",
-      "top": 1
+      "type": "json"
     },
     {
       "key": "wujin",
