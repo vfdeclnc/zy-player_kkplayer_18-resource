@@ -7,6 +7,9 @@
 ---
 ## KKPlayer [Play商店](https://play.google.com/store/apps/details?id=cn.xuehuayu.player)
 
+### KKPlayer赞助会员漏洞原价20现价5元
+
+
 ## KKPlayer内置
 
 `https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/src_built_20240718.json`
