@@ -1,3 +1,4 @@
+如若你喜欢本仓库且不希望与本仓库失联，请点一下右上角的`star`⭐ 并`fork`本仓库。
 # zy-player_kkplayer_18-resource 
 
 ## 18-resource
