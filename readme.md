@@ -21,7 +21,7 @@
 ---
 ### KKPlayer分享码
 
-https://github.com/vfdeclnc/zy-player_kkplayer_18-resource/issues/1
+[https://github.com/vfdeclnc/zy-player_kkplayer_18-resource/issues/1](https://github.com/vfdeclnc/zy-player_kkplayer_18-resource/issues/1)
 
 ---
  
