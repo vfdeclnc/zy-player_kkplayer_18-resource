@@ -3,7 +3,7 @@
  
 ## 目前使用性价比较高的机场  
 ### [https://github.com/vfdeclnc/cheap-vpn-recommendation](https://github.com/vfdeclnc/cheap-vpn-recommendation)
-
+### [https://vpn.zzmy.dpdns.org/](https://vpn.zzmy.dpdns.org/)
 ---
 # zy-player_kkplayer_18-resource 
 
