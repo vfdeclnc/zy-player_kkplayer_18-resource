@@ -9,9 +9,16 @@
 
 ## 18-resource
 
-`https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/src_18_2023-08-22.json`
+[https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/src_18_2023-08-22.json](https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/src_18_2023-08-22.json)
 
 ---
+
+### 资源站 chrome 扩展，支持 加速播放·去广告
+
+[https://chromewebstore.google.com/detail/pegiockicjmdnkjbnppeeakeogdkegac](https://chromewebstore.google.com/detail/pegiockicjmdnkjbnppeeakeogdkegac)
+
+---
+
 ## ZYplayer [下载](https://github.com/Hiram-Wong/ZyPlayer/releases)
 
 ### ZYPlayer [源动力 https://www.sourcepower.top/](https://www.sourcepower.top/)
@@ -22,7 +29,7 @@
 
 ### KKPlayer内置
 
-`https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/src_built_20240718.json`
+[https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/src_built_20240718.json](https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/src_built_20240718.json)
 
 ---
 ### KKPlayer分享码
