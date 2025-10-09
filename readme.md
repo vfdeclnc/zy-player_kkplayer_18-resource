@@ -1,7 +1,7 @@
 如若你喜欢本仓库且不希望与本仓库失联，请点一下右上角的`star`⭐ 并`fork`本仓库。
 ---
  
-## 全网最便宜机场推荐，本人最少使用半年，最多几年，总体稳定  
+## 全网最便宜机场推荐，最少使用半年，最多几年，总体稳定  
 ### [https://github.com/vfdeclnc/cheap-vpn-recommendation](https://github.com/vfdeclnc/cheap-vpn-recommendation)
 ### [https://jc.zzmy.dpdns.org/](https://jc.zzmy.dpdns.org/)
 ---
