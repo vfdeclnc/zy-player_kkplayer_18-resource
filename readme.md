@@ -1,9 +1,9 @@
 如若你喜欢本仓库且不希望与本仓库失联，请点一下右上角的`star`⭐ 并`fork`本仓库。
 ---
  
-## 目前使用性价比较高的机场  
+## 全网最便宜机场推荐，本人最少使用半年，最多几年，总体稳定  
 ### [https://github.com/vfdeclnc/cheap-vpn-recommendation](https://github.com/vfdeclnc/cheap-vpn-recommendation)
-### [https://vpn.zzmy.dpdns.org/](https://vpn.zzmy.dpdns.org/)
+### [https://jc.zzmy.dpdns.org/](https://jc.zzmy.dpdns.org/)
 ---
 # zy-player_kkplayer_18-resource 
 
