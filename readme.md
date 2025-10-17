@@ -15,7 +15,7 @@
 
 ### 资源站 chrome 扩展，支持 加速播放·去广告
 
-[https://chromewebstore.google.com/detail/pegiockicjmdnkjbnppeeakeogdkegac](https://chromewebstore.google.com/detail/pegiockicjmdnkjbnppeeakeogdkegac)
+[https://chromewebstore.google.com/search/KK%20Player?hl=zh-CN](https://chromewebstore.google.com/search/KK%20Player?hl=zh-CN&utm_source=github_18_resource)
 
 ---
 
